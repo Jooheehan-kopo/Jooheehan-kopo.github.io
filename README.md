@@ -11,5 +11,5 @@
 
 ## Reference
 [검색엔진] (https://naver.com)
-[Repository 1] (https://Jooheehan-kopo.github.io/Jooheena-kopo.github.io)
+[Repository 1] (https://Jooheehan-kopo.github.io/Jooheehan-kopo.github.io)
 
